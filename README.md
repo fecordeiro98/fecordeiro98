@@ -27,4 +27,4 @@
 
 ---
 
-![Linguagens](https://github-readme-stats-one-nu-96.vercel.app/api/top-langs/?username=fecordeiro98&theme=shadow_green&locale=pt-br&layout=compact)
+![Linguagens](https://github-readme-stats-one-nu-96.vercel.app/api/top-langs/?username=fecordeiro98&theme=shadow_green&locale=pt-br&layout=compact&langs_count=6)
